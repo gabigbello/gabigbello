@@ -14,7 +14,7 @@ I'm chemical engineer with a postgraduate degree in Data Science and Artificial 
 <img align="left" alt="Sql" width="30px" style="padding-right:10px;" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" />
 <img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" />
 <img align="left" alt="PowerBI" width="30px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" />
-<img align="left" alt="PowerApps" width="30px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-Apps-Colored.png" />
+<img align="left" alt="PowerApps" width="20px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-Apps-Colored.png" />
 <br />
 
 #
@@ -25,7 +25,7 @@ I'm chemical engineer with a postgraduate degree in Data Science and Artificial 
          *Description: Basically, starting with the input of the user of which supplier will be registered, the RPA needs to read a register form on excel, treat the data that is being received and what
          the system can or cannot accept for each input and click through the company's system to enter the information and register the supplier. Tools used: Python and VS Code*
 
-🖥️ App of price analysis:
+🖥️ App for price analysis:
           *Description: The user will download an excel file of the system with all the prices offered by the suppliers and they will be able to input this file into a PowerApps and this app will be 
           responsible for preparing an entire price analysis with suggestions. Tools used: PowerApps and Power Automation*
 
