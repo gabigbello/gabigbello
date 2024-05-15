@@ -1,6 +1,6 @@
 # 🦉 Gabi Bello
 
-**`On my way to become a data scientist!`**
+**`Data scientist and a python lover!`**
 
 I'm chemical engineer with a postgraduate degree in Data Science and Artificial Intelligence in progress. I'm in love with coding and try to use it all the time to automate and make my life more efficient and also to increase my skills. 
 
@@ -13,8 +13,8 @@ I'm chemical engineer with a postgraduate degree in Data Science and Artificial 
 <img align="left" alt="Jupiternotebook" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" />
 <img align="left" alt="Sql" width="30px" style="padding-right:10px;" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" />
 <img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" />
-<img align="left" alt="PowerBI" width="30px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" />
-<img align="left" alt="PowerApps" width="20px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-Apps-Colored.png" />
+<img align="left" alt="PowerBI" width="20px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" />
+<img align="left" alt="PowerApps" width="30px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-Apps-Colored.png" />
 <br />
 
 #
