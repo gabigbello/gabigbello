@@ -2,7 +2,7 @@
 
 **`Data scientist and a code lover!`**
 
-I'm chemical engineer with a postgraduate degree in Data Science and Artificial Intelligence in progress. I'm in love with coding and try to use it all the time to automate and make my life more efficient and also to increase my skills.
+I'm chemical engineer with a postgraduate degree in Data Science and Artificial Intelligence in progress. I'm in love with coding and try to use it all the time to automate and make my life more efficient and also to increase my skills. Also studying web development with HTML, CSS and Javascript.
 
 ---
 
@@ -19,16 +19,6 @@ I'm chemical engineer with a postgraduate degree in Data Science and Artificial 
 <br />
 
 #
-
-### 📺 Projects on going
-
-🖥️ RPA for automation of register process:
-         *Description: Basically, starting with the input of the user of which supplier will be registered, the RPA needs to read a register form on excel, treat the data that is being received and what
-         the system can or cannot accept for each input and click through the company's system to enter the information and register the supplier. Tools used: Python and VS Code*
-
-🖥️ App for price analysis:
-          *Description: The user will download an excel file of the system with all the prices offered by the suppliers and they will be able to input this file into a PowerApps and this app will be 
-          responsible for preparing an entire price analysis with suggestions. Tools used: PowerApps and Power Automation*
 
 #
 <!--
