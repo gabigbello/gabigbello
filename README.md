@@ -1,8 +1,8 @@
 # 🦉 Gabi Bello
 
-**`Data scientist and a python lover!`**
+**`Data scientist and a code lover!`**
 
-I'm chemical engineer with a postgraduate degree in Data Science and Artificial Intelligence in progress. I'm in love with coding and try to use it all the time to automate and make my life more efficient and also to increase my skills. 
+I'm chemical engineer with a postgraduate degree in Data Science and Artificial Intelligence in progress. I'm in love with coding and try to use it all the time to automate and make my life more efficient and also to increase my skills.
 
 ---
 
@@ -15,6 +15,7 @@ I'm chemical engineer with a postgraduate degree in Data Science and Artificial 
 <img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" />
 <img align="left" alt="PowerBI" width="20px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" />
 <img align="left" alt="PowerApps" width="30px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-Apps-Colored.png" />
+<img align="left alt="HTML" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png"/>
 <br />
 
 #
