@@ -33,5 +33,5 @@ I'm chemical engineer with a postgraduate degree in Data Science and Artificial 
 graduation thinking repeatedly about changing to Computer engineer. For 5 years I studied some python, javascript, html and c++. In 2022, I decided that I needed to change my choices and started focusing
 on studying Power BI, and some tools that would help me with moving to a different area and working with data analysis. This year I started my postgraduation in Data Science and Artificial intelligence. 
 
-[linkedin]: https://www.linkedin.com/in/gabriela-gebara-bello-a9118a156/
+<h3>My LinkedIn: https://www.linkedin.com/in/gabriela-gebara-bello-a9118a156/</h3>
 <h3>My Portfolio: https://gabigbello.github.io/</h3>
