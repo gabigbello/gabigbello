@@ -1,8 +1,8 @@
 # 🦉 Gabi Bello
 
-**`Data scientist and a code lover!`**
+**`Code lover!`**
 
-I'm chemical engineer with a postgraduate degree in Data Science and Artificial Intelligence in progress. I'm in love with coding and try to use it all the time to automate and make my life more efficient and also to increase my skills. Also studying web development with HTML, CSS and Javascript.
+I'm chemical engineer with a postgraduate degree in Data Science and Artificial Intelligence in progress. I'm in love with coding and try to use it all the time to automate and make my life more efficient and also to increase my skills. Right now I'm loving and focusing on improving my web development skills with HTML, CSS and Javascript.
 
 ---
 
