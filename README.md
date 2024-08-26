@@ -15,7 +15,12 @@ I'm chemical engineer with a postgraduate degree in Data Science and Artificial 
 <img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" />
 <img align="left" alt="PowerBI" width="20px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" />
 <img align="left" alt="PowerApps" width="30px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-Apps-Colored.png" />
-<img align="left alt="HTML" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png"/>
+<img align="left alt="HTML" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/>
+<img align="left alt="CSS" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
+<img align="left alt="HTML" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"/>
+<img align="left alt="HTML" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"/>
+<img align="left alt="HTML" width="30px" style="padding-right:10px;" src="	https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
+<img align="left alt="HTML" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"/>
 <br />
 
 #
