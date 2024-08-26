@@ -10,18 +10,19 @@ I'm chemical engineer with a postgraduate degree in Data Science and Artificial 
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" />
-<img align="left" alt="Jupiternotebook" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" />
-<img align="left" alt="Sql" width="30px" style="padding-right:10px;" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" />
+<img align="left" alt="Jupyter Notebook" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" />
 <img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" />
-<img align="left" alt="PowerBI" width="20px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" />
+<img align="left" alt="PowerBI" width="30px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" />
 <img align="left" alt="PowerApps" width="30px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-Apps-Colored.png" />
-<img align="left alt="HTML" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/>
-<img align="left alt="CSS" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
-<img align="left alt="HTML" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"/>
-<img align="left alt="HTML" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"/>
-<img align="left alt="HTML" width="30px" style="padding-right:10px;" src="	https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
-<img align="left alt="HTML" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"/>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" />
+<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" />
 <br />
+
 
 #
 
