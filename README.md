@@ -27,8 +27,7 @@ I'm chemical engineer with a postgraduate degree in Data Science and Artificial 
 #
 
 #
-<details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+<h3>👨‍💻 My Coding Journey</h3>
    I started learning about code in college as a chemical engineering student and have done some nice projects like a pacman all built with C++. My passion started at that moment but I continued my
 graduation thinking repeatedly about changing to Computer engineer. For 5 years I studied some python, javascript, html and c++. In 2022, I decided that I needed to change my choices and started focusing
 on studying Power BI, and some tools that would help me with moving to a different area and working with data analysis. This year I started my postgraduation in Data Science and Artificial intelligence. 
